@@ -1,0 +1,36 @@
+﻿ID,Item,Quantity Needed,Quantity Arrived,Comments
+1,vRAN,,2,
+2,vCORE,1,1,"3 Server vCORE 5GC (ongoing, check)"
+3,V2 3|5GHz BS Radio for Field Test,18,18,"怀柔 需要10个SA, 可能1个NSA"
+4,3GPP Leap BPU (6-sector) -3|5G,1,1,
+5,3GPP Leap BPU (3-sector) -3|5G,4,4,"如果用NSA BPU, 需要借一个 放在Lab"
+6,Radio 2219(Band1),3,3,
+7,NSA 3GPP UE-Cab 3|5GHz ,1,1,"check 轮子, BBg2板子（只有研发能买）"
+8,SA 3GPP UE-Cab 3|5GHz ,4,4,
+9,NSA upgrade kit M7450(UE),6,6,"Totally have 6 now,1个用在NSA UE上，5个库存(位置??）"
+10,V2 3|5G UE Radio,4,4,"Refit 3 V2 UE Radio to UE-Cab,3 Done??"
+11,BB g2|1e,,,
+12,X86 Super Micro Server,,,
+13,R6675,,,
+14,光分器,,,
+15,GPP (leap server),,,
+16,SCU,,,
+17,V2-4|9GHz BS Radio for Field Test,10,0, 2018/09/06: Change to 10 from 18
+18,3GPP BPU (3-sector)- 4|9GHz,2,0,2018/09/06: Change to 2 from 6
+19,SA UE Radio V2|2-4|9GHz ,2,0," Per said V2|2 Radio is delayed (again), delivery from Kista is postponed to October| Delay to 2019 Jan|The earliest is week 47(19th Nov), but it will very likely be later"
+20,2|6G BS Radio,,0,
+21,2|6G BS,,0,
+22,2|6G UE Radio,,0,
+23,Fallback UE Trolley,0,0,Rework 4 NSA fallback V2 UE to 4 SA V2done
+24,Fallback BPU (5216 card + super micro) ,7,7,check位置？
+25,NSA upgrade kit NS (LTE) radio - ETTUS B210,1,1,Done (Phase out)？
+26,V1 3|5G Radio,,5,
+27,V1 4|7G Radio,,3,
+28,V1 4|7G UE,,3,
+29,28G TB,,1,
+30,28G UE,,2,
+31,28G PAAM Radio,,2,
+32,INNOLIGHT 40G QSFP,,,
+33,Intel 40G QSFP,,,
+34,Intel 10G SFP,,,
+35,Extreme 10G SFP,,,

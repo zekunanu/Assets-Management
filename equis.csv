@@ -1,0 +1,186 @@
+﻿ID,Equipment,Position,Item
+1,MIIT vRAN #1,Lab,1
+2,MIIT vRAN #2,"Lab,vRAN JTS3,vRAN SA(ongoing)",1
+3,MIIT vRAN #3,ongoing 11月底,1
+4,MIIT vCORE #1,"Lab, 5G EPC",2
+5,MIIT V2 3|5G #1,Lab,3
+6,MIIT V2 3|5G #2,"Lab,NSA test(weiwei)",3
+7,MIIT V2 3|5G #3,怀柔,3
+8,MIIT V2 3|5G #4,怀柔,3
+9,MIIT V2 3|5G #5,"Lab,带工装板",3
+10,MIIT V2 3|5G #6,"Lab,带工装板",3
+11,MIIT V2 3|5G #7,仓库,3
+12,MIIT V2 3|5G #8,仓库,3
+13,MIIT V2 3|5G #9,仓库,3
+14,MIIT V2 3|5G #10,仓库,3
+15,MIIT V2 3|5G #11,仓库,3
+16,MIIT V2 3|5G #12,仓库,3
+17,MIIT V2 3|5G #13,仓库,3
+18,MIIT V2 3|5G #14,仓库,3
+19,MIIT V2 3|5G #15,仓库,3
+20,MIIT V2 3|5G #16,仓库,3
+21,MIIT V2 3|5G #17,lab,3
+22,MIIT V2 3|5G #18,"send to ENC for repair and refit to KRD,从CMRI接入一个",3
+23,MIIT Leap BPU #1(6 sector),"Lab,和#2贴在一起",4
+24,MIIT Leap BPU #2,"Lab,和#1贴在一起",5
+25,MIIT Leap BPU #3,Lab,5
+26,MIIT Leap BPU #4,Lab,5
+27,MIIT Leap BPU #5,"Lab(Andy, BBg2|1e只有一块，GPP三块)",5
+28,MIIT Leap BPU #6,被研发拿走了,5
+29,MIIT Radio2219 #1,Lab,6
+30,MIIT Radio2219 #2,怀柔,6
+31,MIIT Radio2219 #3,借给Jerry Li,6
+32,MIIT Leap UE Cab #1,Lab,7
+33,MIIT Leap UE Cab #2,Lab,8
+34,MIIT Leap UE Cab #3,Lab,8
+35,MIIT Leap UE Cab #4,Lab,8
+36,MIIT Leap UE Cab #5,Lab,8
+37,,Lab,8
+38,MIIT Leap UE Cab #6,Lab坏了,8
+39,MIIT M7450 #1,Lab,9
+40,MIIT M7450 #2,"Lab,柜子",9
+41,MIIT M7450 #3,借给huaishan,9
+42,MIIT M7450 #4,借给huaishan,9
+43,MIIT M7450 #5,missing,9
+44,MIIT M7450 #6,missing,9
+45,MIIT V2 UE 3|5G #1,"Lab, Cab#1",10
+46,MIIT V2 UE 3|5G #2,"Lab, Cab#2",10
+47,MIIT V2 UE 3|5G #3,"Lab, Cab#3",10
+48,MIIT V2 UE 3|5G #4,"Lab, Cab#4",10
+49,MIIT V2 UE 3|5G #5,"Lab, Cab#5",10
+50,MIIT BBg2|1e #1,,11
+51,MIIT BBg2|1e #2,,11
+52,MIIT BBg2|1e #3,,11
+53,MIIT BBg2|1e #4,,11
+54,MIIT BBg2|1e #5,,11
+55,MIIT BBg2|1e #6,,11
+56,MIIT BBg2|1e #7,,11
+57,MIIT BBg2|1e #8,,11
+58,MIIT BBg2|1e #9,,11
+59,MIIT BBg2|1e #10,,11
+60,MIIT BBg2|1e #11,,11
+61,MIIT BBg2|1e #12,,11
+62,MIIT BBg2|1e #13,,11
+63,MIIT BBg2|1e #14,,11
+64,MIIT BBg2|1e #15,,11
+65,MIIT BBg2|1e #16,,11
+66,MIIT BBg2|1e #17,,11
+67,MIIT BBg2|1e #18,,11
+68,MIIT BBg2|1e #19,,11
+69,MIIT 超微server #1,"Lab,柜子(40G+10G网卡)",12
+70,MIIT 超微server #2,"Lab,柜子(40G+10G网卡)",12
+71,MIIT 超微server #3,"Lab,柜子(40G+10G网卡)",12
+72,MIIT 超微server #4,"Lab,柜子(2*10G网卡)",12
+73,MIIT 超微server #5,"Lab,4|7GBPU(40G+10G网卡)",12
+74,MIIT 超微server #6,"Lab,4|7GBPU(40G+10G网卡)",12
+75,MIIT 超微server #7,"Lab, UE cab #1(2*10G网卡)",12
+76,MIIT 超微server #8,"Lab, UE cab #2(2*10G网卡)",12
+77,MIIT 超微server #9,"Lab, UE cab #3(2*10G网卡)",12
+78,MIIT 超微server #10,"Lab, UE cab #4(2*10G网卡)",12
+79,MIIT 超微server #11,"Lab, UE cab #5(2*10G网卡)",12
+80,R6675 MIIT #1,,13
+81,R6675 MIIT #3,,13
+82,R6675 MIIT #4,,13
+83,R6675 MIIT #5,,13
+84,R6675 MIIT #5,被研发拿走了,13
+85,#1,怀柔 s/n:20171113783,14
+86,#2,missing,14
+87,#3,"lab, borrow from CMCC s/n:20171113772",14
+88,#4,"lab, borrow from CMCC s/n:20171113786",14
+89,#5,"lab, borrow from CMCC s/n:20171113784",14
+90,MIIT 28G BBU #1,lab,29
+91,MIIT 40G #1,怀柔装站,32
+92,MIIT 40G #2,怀柔装站,32
+93,MIIT 40G #3,怀柔装站,32
+94,MIIT 40G #4,怀柔装站,32
+95,MIIT 40G #5,怀柔装站,32
+96,MIIT 40G #6,怀柔装站,32
+97,MIIT 40G #7,怀柔装站,32
+98,MIIT 40G #8,怀柔装站,32
+99,MIIT 40G #9,怀柔装站,32
+100,MIIT 40G #10,怀柔装站,32
+101,MIIT 40G #11,怀柔装站,32
+102,MIIT 40G #12,怀柔装站,32
+103,MIIT 40G #13,Lab,32
+104,MIIT 40G #14,Lab,32
+105,MIIT 40G #15,Lab,32
+106,MIIT 40G #16,Lab,32
+107,MIIT 40G #17,Shiqiang Ju ,32
+108,MIIT 40G #18,Shiqiang Ju ,32
+109,MIIT 40G #19,Shiqiang Ju ,32
+110,MIIT 40G #20,Shiqiang Ju ,32
+111,MIIT 40G #21,Shiqiang Ju ,32
+112,MIIT 40G #22,Shiqiang Ju ,32
+113,MIIT 40G #23,Shiqiang Ju ,32
+114,MIIT 40G #24,Shiqiang Ju ,32
+115,MIIT 40G #25,Yuan Li ,32
+116,MIIT 40G #26,Yuan Li ,32
+117,MIIT 40G #27,Andy Guo,32
+118,MIIT 40G #28,Andy Guo,32
+119,MIIT 40G #29,Lend to Bing Wang A(zhenhua He),32
+120,MIIT 40G #30,Lend to Bing Wang A(zhenhua He),32
+121,MIIT 40G #31,in stock,32
+122,MIIT 40G #32,in stock,32
+123,MIIT 40G #33,in stock,32
+124,MIIT 40G #34,in stock,32
+125,MIIT 40G #35,in stock,32
+126,MIIT 40G #36,in stock,32
+127,MIIT 40G #37,in stock,32
+128,MIIT 40G #38 borrow from CMRI,in stock,32
+129,MIIT 40G #39 borrow from CMRI,in stock,32
+130,MIIT 40G #40 borrow from CMRI,in stock,32
+131,MIIT 40G #41 borrow from CMRI,in stock,32
+132,MIIT 40G #42 borrow from CMRI,in stock,32
+133,MIIT 40G #43 borrow from CMRI,in stock,32
+134,MIIT 40G #44 borrow from CMRI,in stock,32
+135,MIIT 40G #45 borrow from CMRI,in stock,32
+136,MIIT 40G #46 borrow from CMRI,in stock,32
+137,MIIT 40G #47 borrow from CMRI,in stock,32
+138,MIIT 40G #48 borrow from CMRI,in stock,32
+139,MIIT 40G #49,missing,32
+140,MIIT 40G #50,missing,32
+141,MIIT 40G #51,missing,32
+142,MIIT 40G #52,missing,32
+143,#1,Lab,33
+144,#2,Lab,33
+145,#3,Lab,33
+146,#4,Lab,33
+147,#5,Lab,33
+148,#6,Lab,33
+149,#7,Haoran Yang,33
+150,#8,missing,33
+151,#9,missing,33
+152,#1,Lab BBU#3,34
+153,#2,Lab BBU#3,34
+154,#3,Lab BBU#3,34
+155,#4,Lab Annie柜子,34
+156,#5,Lab Annie柜子,34
+157,#6,Lab Annie柜子,34
+158,#7,Lab Annie柜子,34
+159,#8,Lab Annie柜子,34
+160,#9,Lab Annie柜子,34
+161,#10,Lab Annie柜子,34
+162,#11,Lab Annie柜子,34
+163,#12,Lab Annie柜子,34
+164,#13,Lab Annie柜子,34
+165,#14,damage,34
+166,#15,damage,34
+167,#16,damage,34
+168,#17,damage,34
+169,#18,Haoran Yang,34
+170,#19,Haoran Yang,34
+171,#20,库存,34
+172,#21,库存,34
+173,#22,库存,34
+174,#23,库存,34
+175,#24,库存,34
+176,#25,库存,34
+177,#26,missing,34
+178,#27,missing,34
+179,#28,missing,34
+180,#29,missing,34
+181,#1,,35
+182,#2,,35
+183,#3,,35
+184,#4,,35
+185,#5,,35
